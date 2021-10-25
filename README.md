@@ -1,4 +1,4 @@
-# Capstone Project I - OOP
+# Object-oriented_Programming_Project
 
 This program is a project management system for a small structural engineering firm called “Poised”. It is used to keep track of the many projects which the engineers work on.
 
